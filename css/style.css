@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+#btn {
+  padding: 10px 15px;
+  border: 1px double red;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #fafafa;
+  color: #000;
+}
+
+.num {
+  display: flex;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  background-color: #fafafa;
+  color: #000;
+}
+
+#push {
+  text-align: center;
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  background-color: rebeccapurple;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid black;
+}/*# sourceMappingURL=style.css.map */
